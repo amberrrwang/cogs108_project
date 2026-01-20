@@ -48,3 +48,13 @@ Key visualizations include:
 - Identified cases where initial hypotheses were contradicted by visual evidence
 - Discovered that unequal sample sizes between men’s and women’s categories significantly affected results
 - Refined conclusions based on data composition and variability rather than raw averages alone
+
+---
+
+## Key Findings
+
+- Gender-based pricing differences are not uniform across categories
+- In several categories, men’s clothing was more expensive on average than women’s
+- Men’s apparel often showed greater price variability
+- Apparent “pink tax” effects can be misleading if item counts between genders are not balanced
+- Data interpretation and visualization played a critical role in correcting initial assumptions
